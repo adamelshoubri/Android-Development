@@ -1,4 +1,4 @@
-Assignment 2 - Favorite Websites List App (due Wednesday 3/18 by 11:59PM)
+Assignment 3
 ______________
 Submission Instructions
   1. Fork this repository to your local computer
